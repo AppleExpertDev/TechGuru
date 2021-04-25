@@ -52,7 +52,8 @@
     "witsec-white-label": true,
     "publishType": "local",
     "publishPath": "@PROJECT_PATH@",
-    "mbrsiteDomain": "phlmxaxchi"
+    "mbrsiteDomain": "phlmxaxchi",
+    "canonical-url": false
   },
   "pages": {
     "personalstory.html": {
